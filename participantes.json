@@ -1,0 +1,482 @@
+[
+  {
+    "nome": "Adriana Barbosa Moura",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Adriana Demite Stephani Carvalho",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Adriano Fraga Rodrigues Vital",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Alberto Lacerda das Chagas",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Alexandre de Araújo Oliveira",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Aline Ribeiro Silva",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Ana Paula dos Santos",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "André Luiz Martins de Castro",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Andressa Pinheiro Oliveira Chaves",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Angela Franciely Machado",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Antonivaldo de Jesus",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Bruno Barreto Amorim Campos",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Camila Afonso dos Santos",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Candida Vilberta Alves Silva",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Carlos Alberto Moreira de Araújo Júnior",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Cristina da Cunha Fonseca",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Daiene Ferreira Silva Corado",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Dailson Evangelista Costa",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Dallyla de Moraes Sousa",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Daniella Borges Nascimento",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Deusmar Oliveira de Borba",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Dilson Pereira dos Santos Júnior",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Doriete Macedo Santos",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Dorisvan Moreira",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Elisiane Santiago Silva",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Etiene Fabbrin Pires Oliveira",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Evaldo Barreto e Melo",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Fabiana Pereira Salgado Carvalho",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Fabiana Scoleso",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Fabio de Paula Assis Júnior",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Ggiuliano Mhuryell Jacome Mascarenhas",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Haiany Silva Tavares",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Herberth Alves de Souza",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Idelma de Melo Rodrigues Abreu",
+    "manha": false,
+    "tarde": true
+  },
+  {
+    "nome": "Igor Eloi Silva Machado",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Ilana Marques de Jesus Beltrão",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Ivanilson Ferreira Vaz",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Ivonete Telles Medeiros",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Jandevan Reis de Azevedo",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "João Batista Teixeira",
+    "manha": false,
+    "tarde": true
+  },
+  {
+    "nome": "Joãomar Alves Bezerra Filho",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Joienita da Silva Carvalho Santos",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Jordana Teixeira de Melo",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "José de Oliveira Melo Neto",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "José Inácio Santos",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "José Mauro Batista Junior",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Julierme Lopes Vasconcelos",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Julierme Siriano da Silva",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Karina Mosel Paixão Balestra",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Ladislau Ribeiro do Nascimento",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Leandro Ramos Martins",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Leonardo Ramos Leite",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Lucas Ferreira Rocha",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Lucas Rodrigues Dantas",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Luis Eduardo Bovolato",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Marcela Cristina Barbosa Garcia",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Marcos Antonio Gomes Barbosa",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Marcos William Martins Castro",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Maria Cristina Manno",
+    "manha": false,
+    "tarde": true
+  },
+  {
+    "nome": "Maria do Socorro Batista da Silva",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Maria Katharina de Pádua Lopes",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Marluzio da Silva Leite",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Matheus Nascimento Santos",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Mauricio Reis Sousa do Nascimento",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Michelle Costa de Abreu",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Michelle de Jesus Pantoja Filgueira",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Michelle Matilde Semiguem Lima Trombini Duarte",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Neci Oneides da Silva Fialho Neta",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Neide Márcia Pereira da Silva",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Niléia Cristina Silva",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Paulo Lopes da Silva",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Pedro Henrique Almeida Tavares",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Pedro Henrique Oliveira Cuco",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Radi Melo Martins",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Rafaella Lorena Ayres Carvalho",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Raimundo Nonato de Sousa Sobrinho",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Rayanne Rodrigues Pereira",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Roberta Mara de Oliveira Vergara",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Rodrigo Prieto Cardoso",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Romildo Belém da Silva",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Ronaldo Machado Marques",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Ruberval Rodrigues de Sousa",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Samuel Gomes de Queiroz",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Sônia Maria de Sousa Fabricio Neiva",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Taciano Peres Ferreira",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Valdir Antonio Duarte Júnior",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Valéria Soares de França",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Vanderlan Carneiro Dias",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Weider Lopes Batista",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Werley Teixeira Reinaldo",
+    "manha": false,
+    "tarde": true
+  },
+  {
+    "nome": "Weslley dos Santos Brito",
+    "manha": false,
+    "tarde": true
+  },
+  {
+    "nome": "Zilda Pereira dos Anjos",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Lean Pereira de Albuquerque",
+    "manha": true,
+    "tarde": false
+  },
+  {
+    "nome": "Kaike Leonardo Alves Carneiro",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Vera Nubia Zandonadi Gomes",
+    "manha": true,
+    "tarde": true
+  },
+  {
+    "nome": "Eudicléia da Silva Araújo",
+    "manha": true,
+    "tarde": false
+  }
+]
